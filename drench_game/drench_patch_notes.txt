@@ -1,0 +1,5 @@
+v1.1
+- Attacking your teammates in Lights Out will no longer give points, and killing your teammates in Duels will no longer count as your kill, meaning you won't get a full heal.
+- Fixed all players earning points in Free-for-All duels, as if they were on the same team
+- Fixed scoreboard in Team duels not displaying correcting in some situations
+- Added a failsafe if a player is in the timer state for longer than expected, hopefully preventing players from getting stuck
